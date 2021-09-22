@@ -1,0 +1,8 @@
+<root>
+    <item name='org.openqa.selenium.support.ui.ExpectedConditions org.openqa.selenium.support.ui.ExpectedCondition&lt;java.lang.Boolean&gt; numberOfWindowsToBe(int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_-&gt;new&quot;"/>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
